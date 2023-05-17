@@ -12,7 +12,7 @@
   <p> There are the languages what I know or am studiying - the last possibility is more probable.</p>
   <div>
     <a href="https://github.com/iodoGuduD">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iodoGuduD&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iodoGuduD&layout=donut)](https://github.com/anuraghazra/github-readme-stats"/>
   </div>
 <h2>Projects</h2>
   <p>I want to do...</p>

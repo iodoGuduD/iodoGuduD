@@ -1,6 +1,6 @@
 <h1>Welcome! Future Project README.md</h1>
 <h3>About me</h3>
-  <p> I am a student from Brazil who want to learn more about programing. My objective is work with programing to buy a passport and study in England,    Germany or USA. If you can, please, send me a commit about my projects and ideas, because I am new in this programing world and do not have much experience or knowlegde about scripting. Thanks! </p>
+  <p> I am a student from Brazil who want to learn more about programing. My objective is work with programing to buy a passport and study in England, Germany or USA. If you can, please, send me a commit about my projects and ideas, because I am new in this programing world and do not have much experience or knowlegde about scripting. Thanks! </p>
 <h4>Languages</h4>
   <p>
     <ul>
@@ -12,7 +12,7 @@
   <p> There are the languages what I know or am studiying - the last possibility is more probable.</p>
   <div>
     <a href="https://github.com/iodoGuduD">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iodoGuduD&layout=donut)](https://github.com/anuraghazra/github-readme-stats"/>
+    <img height="180em" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)/>
   </div>
 <h2>Projects</h2>
   <p>I want to do...</p>
